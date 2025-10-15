@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1760475515 source:/home/luke/Desktop/myVM/main.c
+	<stdint.h>
+
