@@ -38,5 +38,24 @@ It is also fantastic preparation for:
 ### ✔ Custom Instruction Set  
 Includes (example) opcodes such as:
 
-- `LOAD`, `STORE`  
-- `ADD`, `SU
+LOAD R1, 10
+LOAD R2, 20
+ADD R3, R1, R2
+PRINT R3
+HALT
+
+
+---
+
+## 🚀 Getting Started  
+
+### 🔧 Requirements  
+- Python 3.x  
+(No external dependencies unless you add them.)
+
+### 📥 Installation  
+Clone the repository:
+
+```bash
+git clone https://github.com/lukedev45/myVM
+cd myVM
