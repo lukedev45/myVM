@@ -38,11 +38,11 @@ It is also fantastic preparation for:
 ### ✔ Custom Instruction Set  
 Includes (example) opcodes such as:
 
-LOAD R1, 10
-LOAD R2, 20
-ADD R3, R1, R2
-PRINT R3
-HALT
+- LOAD R1, 10
+- LOAD R2, 20
+- ADD R3, R1, R2
+- PRINT R3
+- HALT
 
 
 ---
